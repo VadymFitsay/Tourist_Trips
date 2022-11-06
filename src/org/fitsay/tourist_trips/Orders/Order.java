@@ -2,14 +2,18 @@ package org.fitsay.tourist_trips.Orders;
 import java.util.ArrayList;
 import java.util.List;
 
+
+
+
 public class Order {
-    public static int countOfOrders;
-    private String number;
-    private final int idOfOrder;
+    private String NameCustomer;
+    private String PhoneNumber;
+    private final int OrderID;
+    public static int NumOrders;
     protected final List<Order> orders = new ArrayList<>();
 
     public Order(){
-        idOfOrder = countOfOrders;
-        countOfOrders++;
+        OrderID = NumOrders;
+        NumOrders++;
     }
 }

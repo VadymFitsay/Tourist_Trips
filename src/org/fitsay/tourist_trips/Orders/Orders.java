@@ -5,6 +5,8 @@ import java.util.List;
 
 public class Orders {
     protected  List<Order> orders = new ArrayList<>();
-    public void addOrders(){}
-    public void deleteOrders(){}
+    public void GenerateOrders(){}
+    public void addOrder(){}
+    public void deleteOrder(){}
+    public void SortByNameCustomer(){}
 }

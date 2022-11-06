@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="454ed693-49da-4efc-88f6-e868c3f9e2a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tourist_Trips.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fitsay/tourist_trips/Interface/CustomerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fitsay/tourist_trips/Interface/OwnerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fitsay/tourist_trips/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fitsay/tourist_trips/Orders/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fitsay/tourist_trips/Orders/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fitsay/tourist_trips/Vouchers/Offers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fitsay/tourist_trips/Vouchers/Voucher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fitsay/tourist_trips/Vouchers/VoucherType.java" afterDir="false" />
+    <list default="true" id="454ed693-49da-4efc-88f6-e868c3f9e2a1" name="Changes" comment="0.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/fitsay/tourist_trips/Orders/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fitsay/tourist_trips/Orders/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/fitsay/tourist_trips/Orders/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fitsay/tourist_trips/Orders/Orders.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +51,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667660477121</updated>
     </task>
+    <task id="LOCAL-00001" summary="0.1">
+      <created>1667760044660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667760044660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.1" />
   </component>
 </project>
