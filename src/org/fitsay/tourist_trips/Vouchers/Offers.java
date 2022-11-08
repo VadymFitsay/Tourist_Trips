@@ -6,10 +6,7 @@ import java.util.Scanner;
 public class Offers {
     private List<Voucher> vouchers = new ArrayList<>();
     Scanner scanner = new Scanner(System.in);
-    public void addVoucher(){
-        System.out.println("AddVoucher");
-
-    }
+    public void addVoucher(){System.out.println("AddVoucher");}
     public void DeleteVoucher(){
         System.out.println("DeleteVoucher");
     }

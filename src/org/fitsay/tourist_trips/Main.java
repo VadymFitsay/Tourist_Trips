@@ -1,9 +1,8 @@
 package org.fitsay.tourist_trips;
-import  org.fitsay.tourist_trips.Interface.OwnerInterface;
+import  org.fitsay.tourist_trips.Interface.CustomerInterface;
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        OwnerInterface ownerInterface = new OwnerInterface();
-        ownerInterface.showMenu();
+        CustomerInterface ownerInterface = new CustomerInterface();
+        ownerInterface.menu();
     }
 }
